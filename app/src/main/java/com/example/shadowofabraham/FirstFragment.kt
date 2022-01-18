@@ -7,7 +7,7 @@ import android.view.View
 import android.view.ViewGroup
 import androidx.navigation.fragment.findNavController
 import com.example.shadowofabraham.databinding.FragmentFirstBinding
-//hey
+
 /**
  * A simple [Fragment] subclass as the default destination in the navigation.
  */
